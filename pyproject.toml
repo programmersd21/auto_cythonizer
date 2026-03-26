@@ -11,7 +11,7 @@ requires-python = ">=3.8"
 license = "MIT"
 keywords = ["cli", "optimizer", "rich"]
 authors = [
-  { name = "programmersd", email = "geniussantu1983@gmail.com" }
+  { name = "programmersd21", email = "geniussantu1983@gmail.com" }
 ]
 classifiers = [
   "Development Status :: 4 - Beta",
@@ -28,9 +28,9 @@ classifiers = [
 dependencies = ["rich"]
 
 [project.urls]
-Documentation = "https://github.com/programmersd/auto-cythonizer#readme"
-Issues = "https://github.com/programmersd/auto-cythonizer/issues"
-Source = "https://github.com/programmersd/auto-cythonizer"
+Documentation = "https://github.com/programmersd21/auto-cythonizer#readme"
+Issues = "https://github.com/programmersd21/auto-cythonizer/issues"
+Source = "https://github.com/programmersd21/auto-cythonizer"
 
 [tool.hatch.version]
 path = "__about__.py"
