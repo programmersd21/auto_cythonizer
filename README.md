@@ -13,7 +13,7 @@ pip install auto-cythonizer
 
 ## 💪 Example(s)
 
-[Find em' here](https://github.com/pro-grammer-SD/auto_cythonizer_tests)
+[Find em' here](https://github.com/programmersd/auto_cythonizer_tests)
 
 ## ✨ Features
 
